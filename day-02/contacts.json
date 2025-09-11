@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Ada Lovelace",
+      "phone": "+44 1234",
+      "email": "ada@example.com",
+      "tags": [
+        "pioneer",
+        "math"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "phone": "456",
+      "email": "",
+      "tags": [
+        "sales",
+        "apac"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ji Ji Gi",
+      "phone": "+44 1234",
+      "email": "ada@example.com",
+      "tags": [
+        "pioneer",
+        "math"
+      ]
+    }
+  ]
+}
